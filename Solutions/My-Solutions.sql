@@ -6,7 +6,6 @@ SELECT * FROM customers;
 SELECT * FROM sales;
 
 -- Reports & Data Analysis
-
 -- Q.1 Coffee Consumers Count
 --- How many people in each city are estimated to consume coffee, given that 25% of the population does?---
 
