@@ -6,8 +6,10 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
    How many people in each city are estimated to consume coffee, given that 25% of the population does?
 2. **Sales Count for Each Product**  
    How many units of each coffee product have been sold?
-3 **Total Revenue from Coffee Sales**  
+   
+3 **Total Revenue from Coffee Sales**
    What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?
+   
 4. **Average Sales Amount per City**  
    What is the average sales amount per customer in each city?
 5. **City Population and Coffee Consumers**  
