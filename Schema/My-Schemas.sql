@@ -1,4 +1,5 @@
 -- Monday Coffee SCHEMAS
+
 DROP TABLE IF EXISTS sales;
 DROP TABLE IF EXISTS customers;
 DROP TABLE IF EXISTS products;
